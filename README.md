@@ -6,6 +6,9 @@
 
 Neon Sign Studio is a modern, interactive web application that lets users design and preview custom neon signs in real-time. Perfect for businesses, events, or personal spaces, our tool provides an intuitive interface to create stunning neon designs with professional-grade customization options.
 
+> 🔗 Looking for real neon signs? Check out [Custom Neon Signs](https://getcustomneonsigns.com) for professional neon sign manufacturing.
+
+
 ## 🎨 Features
 
 - **Real-time Preview**: See your neon sign come to life as you type
